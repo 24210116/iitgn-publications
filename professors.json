@@ -1,44 +1,107 @@
 [
     {
-        "name": "Prof. Rajeev Misra",
+        "name": "Achyut Mishra",
         "scholar_url": "https://scholar.google.com/citations?user=VrsOgCQAAAAJ&hl=en",
-        "image": "https://earth.iitgn.ac.in/faculty/images/rajeev.jpg",
-        "citations": 3200,
-        "publications": 86
+        "image": "https://cdn.prod.website-files.com/6257d320db15dd24d4e5fb5d/67e531d15c38d4c4f70c4f40_Portrait-p-500.jpg",
+        "citations": "To be updated",
+        "publications": "To be updated"
     },
     {
-        "name": "Prof. Anirban Das",
-        "scholar_url": "https://scholar.google.com/citations?user=IDijZNIAAAAJ&hl=en",
-        "image": "https://earth.iitgn.ac.in/faculty/images/anirban.jpg",
-        "citations": 1105,
-        "publications": 42
-    },
-    {
-        "name": "Prof. Saibal Gupta",
-        "scholar_url": "https://scholar.google.com/citations?user=5cVNDCoAAAAJ&hl=en",
-        "image": "https://earth.iitgn.ac.in/faculty/images/saibal.jpg",
-        "citations": 2350,
-        "publications": 98
-    },
-    {
-        "name": "Prof. Ritabrata Dutta",
-        "scholar_url": "https://scholar.google.com/citations?user=lmYiWpEAAAAJ&hl=en",
-        "image": "https://earth.iitgn.ac.in/faculty/images/ritabrata.jpg",
-        "citations": 890,
-        "publications": 38
-    },
-    {
-        "name": "Prof. Harsh Gupta",
+        "name": "CN Pandey",
         "scholar_url": "",
-        "image": "https://earth.iitgn.ac.in/faculty/images/harshgupta.jpg",
+        "image": "https://cdn.prod.website-files.com/6257d320db15dd24d4e5fb5d/630503fd69d93a499650c195_cn_pandeyyyyyy.jpg",
         "citations": "N/A",
         "publications": "N/A"
     },
     {
-        "name": "Prof. Sudipta Sarkar",
-        "scholar_url": "https://scholar.google.com/citations?user=KO_sA_oAAAAJ&hl=en",
-        "image": "https://earth.iitgn.ac.in/faculty/images/sudipta.jpg",
-        "citations": 1480,
-        "publications": 54
+        "name": "Michel Danino",
+        "scholar_url": "https://scholar.google.com/citations?hl=en&user=L5hFOroAAAAJ",
+        "image": "https://cdn.prod.website-files.com/6257d320db15dd24d4e5fb5d/64f19a074dd1948b86d4d09d_mich.jpg",
+        "citations": "To be updated",
+        "publications": "To be updated"
+    },
+    {
+        "name": "Pankaj Khanna",
+        "scholar_url": "https://scholar.google.com/citations?hl=en&user=KupfNgUAAAAJ",
+        "image": "https://cdn.prod.website-files.com/6257d320db15dd24d4e5fb5d/6301dc95f3022e6090b3d7c2_khanna%20(1).jpeg",
+        "citations": "To be updated",
+        "publications": "To be updated"
+    },
+    {
+        "name": "Paolo Biagi",
+        "scholar_url": "https://scholar.google.com/citations?user=90nM0KEAAAAJ&hl=en",
+        "image": "https://cdn.prod.website-files.com/6257d320db15dd24d4e5fb5d/67f80576335c5571831b2002_Paolo_Biagi-p-500.png",
+        "citations": "To be updated",
+        "publications": "To be updated"
+    },
+    {
+        "name": "Prem Chand Pandey",
+        "scholar_url": "https://scholar.google.com/citations?hl=en&user=LxTb3WsAAAAJ",
+        "image": "https://cdn.prod.website-files.com/6257d320db15dd24d4e5fb5d/63050460c5e0ff5553ec20f7_pcpandeyyyy.jpg",
+        "citations": "To be updated",
+        "publications": "To be updated"
+    },
+    {
+        "name": "Rishi Singh",
+        "scholar_url": "",
+        "image": "https://cdn.prod.website-files.com/6257d320db15dd24d4e5fb5d/682701d119a0579c73a27d36_Screenshot_20250516_144330.png",
+        "citations": "N/A",
+        "publications": "N/A"
+    },
+    {
+        "name": "S K Tandon",
+        "scholar_url": "https://scholar.google.com/citations?hl=en&user=tYqY-VoAAAAJ",
+        "image": "https://cdn.prod.website-files.com/6257d320db15dd24d4e5fb5d/67f8004a0ddeef0ebcac1f4e_R.jpeg",
+        "citations": "To be updated",
+        "publications": "To be updated"
+    },
+    {
+        "name": "Sharda CV",
+        "scholar_url": "https://scholar.google.com/citations?hl=en&user=hcisl7UAAAAJ",
+        "image": "https://cdn.prod.website-files.com/6257d320db15dd24d4e5fb5d/64f19a12aff4ad96e1c18008_Sharada-new.jpg",
+        "citations": "To be updated",
+        "publications": "To be updated"
+    },
+    {
+        "name": "Sonal Khanolkar",
+        "scholar_url": "https://scholar.google.com/citations?hl=en&user=IDijZNIAAAAJ",
+        "image": "https://cdn.prod.website-files.com/6257d320db15dd24d4e5fb5d/67eb9288c1b594c60c3c7c56_sonal-p-500.png",
+        "citations": "To be updated",
+        "publications": "To be updated"
+    },
+    {
+        "name": "Udit Bhatia",
+        "scholar_url": "https://scholar.google.com/citations?hl=en&user=kzV7l0cAAAAJ",
+        "image": "https://cdn.prod.website-files.com/6257d320db15dd24d4e5fb5d/67f802ca9ffec19bcb5778c4_0udit-p-500.jpg",
+        "citations": "To be updated",
+        "publications": "To be updated"
+    },
+    {
+        "name": "Utsav Mannu",
+        "scholar_url": "https://scholar.google.com/citations?hl=en&user=wq7CgpUAAAAJ",
+        "image": "https://cdn.prod.website-files.com/6257d320db15dd24d4e5fb5d/6301da9eb0ee916a74f5f318_utsav%20(1).jpeg",
+        "citations": "To be updated",
+        "publications": "To be updated"
+    },
+    {
+        "name": "V N Prabhakar",
+        "scholar_url": "https://scholar.google.com/citations?hl=en&user=v6FYRzsAAAAJ",
+        "image": "https://cdn.prod.website-files.com/6257d320db15dd24d4e5fb5d/64f19b79d0246590df59f9ac_VN.jpg",
+        "citations": "To be updated",
+        "publications": "To be updated"
+    },
+    {
+        "name": "Vikrant Jain",
+        "scholar_url": "https://scholar.google.com/citations?hl=en&user=d0Iyim0AAAAJ",
+        "image": "https://cdn.prod.website-files.com/6257d320db15dd24d4e5fb5d/6301dd744ebe68548749160a_vikrant%20(1).jpeg",
+        "citations": "To be updated",
+        "publications": "To be updated"
+    },
+    {
+        "name": "Vimal Mishra",
+        "scholar_url": "https://scholar.google.com/citations?hl=en&user=DRA0j88AAAAJ",
+        "image": "https://cdn.prod.website-files.com/6257d320db15dd24d4e5fb5d/6305039c5c91082beaf27186_IMG_7413%20(1)1111-p-500.jpg",
+        "citations": "To be updated",
+        "publications": "To be updated"
     }
 ]

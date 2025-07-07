@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Prof. Rajeev Misra",
+        "scholar_url": "https://scholar.google.com/citations?user=VrsOgCQAAAAJ&hl=en",
+        "image": "https://earth.iitgn.ac.in/faculty/images/rajeev.jpg",
+        "citations": 3250,
+        "publications": 87
+    },
+    {
+        "name": "Prof. Anirban Das",
+        "scholar_url": "https://scholar.google.com/citations?user=IDijZNIAAAAJ&hl=en",
+        "image": "https://earth.iitgn.ac.in/faculty/images/anirban.jpg",
+        "citations": 1120,
+        "publications": 45
+    },
+    {
+        "name": "Prof. No Scholar",
+        "scholar_url": "",
+        "image": "https://earth.iitgn.ac.in/faculty/images/noscholar.jpg",
+        "citations": "N/A",
+        "publications": "N/A"
+    }
+]

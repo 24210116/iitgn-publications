@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Prof. Rajeev Misra",
+        "scholar_url": "https://scholar.google.com/citations?user=VrsOgCQAAAAJ&hl=en",
+        "image": "https://earth.iitgn.ac.in/faculty/images/rajeev.jpg",
+        "citations": 3200,
+        "publications": 86
+    },
+    {
+        "name": "Prof. Anirban Das",
+        "scholar_url": "https://scholar.google.com/citations?user=IDijZNIAAAAJ&hl=en",
+        "image": "https://earth.iitgn.ac.in/faculty/images/anirban.jpg",
+        "citations": 1105,
+        "publications": 42
+    },
+    {
+        "name": "Prof. Saibal Gupta",
+        "scholar_url": "https://scholar.google.com/citations?user=5cVNDCoAAAAJ&hl=en",
+        "image": "https://earth.iitgn.ac.in/faculty/images/saibal.jpg",
+        "citations": 2350,
+        "publications": 98
+    },
+    {
+        "name": "Prof. Ritabrata Dutta",
+        "scholar_url": "https://scholar.google.com/citations?user=lmYiWpEAAAAJ&hl=en",
+        "image": "https://earth.iitgn.ac.in/faculty/images/ritabrata.jpg",
+        "citations": 890,
+        "publications": 38
+    },
+    {
+        "name": "Prof. Harsh Gupta",
+        "scholar_url": "",
+        "image": "https://earth.iitgn.ac.in/faculty/images/harshgupta.jpg",
+        "citations": "N/A",
+        "publications": "N/A"
+    },
+    {
+        "name": "Prof. Sudipta Sarkar",
+        "scholar_url": "https://scholar.google.com/citations?user=KO_sA_oAAAAJ&hl=en",
+        "image": "https://earth.iitgn.ac.in/faculty/images/sudipta.jpg",
+        "citations": 1480,
+        "publications": 54
+    }
+]
